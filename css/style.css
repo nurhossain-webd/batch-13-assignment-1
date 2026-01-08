@@ -185,5 +185,23 @@ nav {
 .solution-list li img {
     height: 20px;
     width: 20px;
+}
 
+.think-clearly {
+    margin: 120px 120px;
+    padding: 80px 40px;
+    text-align: center;
+}
+
+.think-clearly h2 {
+    font-size: 40px;
+    color: #001931;
+
+}
+
+.think-clearly p {
+    margin-top: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
 }
