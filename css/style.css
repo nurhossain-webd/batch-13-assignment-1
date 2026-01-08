@@ -110,6 +110,7 @@ nav {
 
 .mcard-body {
     text-align: center;
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.1);
 }
 
 .icon-bg {
@@ -191,6 +192,7 @@ nav {
     margin: 120px 120px;
     padding: 80px 40px;
     text-align: center;
+    background-color: #F7F6F2;
 }
 
 .think-clearly h2 {
@@ -204,4 +206,35 @@ nav {
     line-height: 24px;
     color: #627382;
     margin-bottom: 24px;
+}
+
+footer {
+    background-color: #001931;
+    padding: 120px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+
+}
+
+.social h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.social a {
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: #000000;
+}
+
+.copy-right {
+    color: #FFFFFF;
+    text-align: center;
 }
