@@ -85,3 +85,53 @@ nav {
     background: none;
     border: 2px solid whitesmoke;
 }
+
+.motivationtxt {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.motivationtxt h1 {
+    font-size: 48px;
+    color: #001931;
+    padding: 40px 0px 20px;
+}
+
+.motivationtxt p {
+    color: #627382;
+    line-height: 20px;
+}
+
+.motivationcard {
+    display: flex;
+    gap: 24px;
+    margin: 44px 120px 0px;
+}
+
+.mcard-body {
+    text-align: center;
+}
+
+.icon-bg {
+    background-color: #F95555;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.mcard-body h2 {
+    font-size: 24px;
+    font-weight: 600px;
+    color: #001931;
+    margin-top: 16px;
+}
+
+.mcard-body p {
+    line-height: 20px;
+    color: #627382;
+    margin-top: 16px;
+}
