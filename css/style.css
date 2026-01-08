@@ -135,3 +135,55 @@ nav {
     color: #627382;
     margin-top: 16px;
 }
+
+.solution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 120px 120px;
+    gap: 60px;
+}
+
+.solutiontxt {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+#THE-SOLUTION {
+    font-weight: 600px;
+    line-height: 20px;
+    color: #469165;
+}
+
+.solutiontxt h2 {
+    margin-top: 16px;
+    font-size: 48px;
+    color: #001931;
+}
+
+.solutiontxt p {
+    margin-top: 16px;
+    color: #627382;
+    line-height: 20px;
+}
+
+.solution-list {
+    margin-top: 40px;
+    list-style: none;
+
+}
+
+.solution-list li {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    line-height: 20px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.solution-list li img {
+    height: 20px;
+    width: 20px;
+
+}
